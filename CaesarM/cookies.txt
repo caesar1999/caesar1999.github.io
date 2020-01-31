@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nguyenkhanhthien99.wixsite.com	TRUE	/caesar-m	FALSE	1999999999	svSession	dcaa3654b6ec8cc2f478789fa35a69009e5fd3eb707538a52f47045bfeae96a963fe5e619bd84586199b5d0ffba6186a1e60994d53964e647acf431e4f798bcd5934f1b1e7944c3f89e22cd30a699f014cadc8f0e1cf13a4ab729df6b609a237
+nguyenkhanhthien99.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1580443364|fhh3UatOQluB
+nguyenkhanhthien99.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss,varnish=miss, dc,desc=ae1"
+nguyenkhanhthien99.wixsite.com	TRUE	/	FALSE	1999999999	hs	-1661637217
+
